@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "cloud-concierge-example"
+		},
+		{
+			"path": "cloud-concierge"
+		}
+	],
+	"settings": {}
+}
