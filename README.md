@@ -4,8 +4,11 @@ This is the development workspace for http://github.com/dragondrop-cloud.
 ## Set up
 
 - ssh key
+
 `docker cp $HOME/.ssh/id_rsa <devcontainer name>:/home/vscode/.ssh`
+
 - aws configure
+
 `aws configure`
 
 ### Link
